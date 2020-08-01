@@ -66,3 +66,4 @@ Reopen a cancelled mail. A query  marked as cancelled can be reopened again usin
 
 
 
+[![Run on Repl.it](https://repl.it/badge/github/xrezut/ModMail-Discord-Bot)](https://repl.it/github/xrezut/ModMail-Discord-Bot)
